@@ -1,7 +1,9 @@
 # angular-eslint-sample
 
 ESlint を確認するサンプルプロジェクト。
-`.eslintrc.json` の動作を `app.component.ts` で確認。
+
+* `.eslintrc.json` の動作を `app.component.ts` で確認。
+* `npm run lint` でチェック結果が出力される事を確認。
 
 ## 参考サイト
 
