@@ -7,6 +7,7 @@ ESlint を確認するサンプルプロジェクト。
 
 * [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
 * [eslintを最大限活用してTypeScriptの型安全を少しずつ高める方法](https://tech.ga-tech.co.jp/entry/2020/01/refactoring-type-safety-with-eslint)
+* [TypeScriptのプロジェクトでESLint+Prettierを活用する](https://www.tam-tam.co.jp/tipsnote/javascript/post17695.html)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
