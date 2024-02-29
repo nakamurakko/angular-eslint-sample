@@ -1,5 +1,7 @@
 # angular-eslint-sample
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+
 ESlint を確認するサンプルプロジェクト。
 [Angular のプロジェクトに ESLint を設定して、 TypeScript っぽく書いているかチェックする](https://www.nakamurakko.com/entry/2022/01/20/081148)を説明するために用意した。
 
