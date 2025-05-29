@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
 ESlint を確認するサンプルプロジェクト。
-[Angular のプロジェクトに ESLint を設定して、 TypeScript っぽく書いているかチェックする](https://www.nakamurakko.com/entry/2022/01/20/081148)を説明するために用意した。
+[Angular のプロジェクトに ESLint を設定して、 TypeScript っぽく書いているかチェックする](https://nakamurakko.com/entry/2022/01/20/081148)を説明するために用意した。
 
 * `.eslintrc.json` の動作を `app.component.ts` で確認。
 * `npm run lint` でチェック結果が出力される事を確認。
