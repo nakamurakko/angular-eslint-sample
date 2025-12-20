@@ -1,12 +1,15 @@
 # angular-eslint-sample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
-
 ESlint を確認するサンプルプロジェクト。
-[Angular のプロジェクトに ESLint を設定して、 TypeScript っぽく書いているかチェックする](https://nakamurakko.com/entry/2022/01/20/081148)を説明するために用意した。
 
-* `.eslintrc.json` の動作を `app.component.ts` で確認。
-* `npm run lint` でチェック結果が出力される事を確認。
+* `eslint.config.js` の動作を `app.ts` で確認。
+* `ng lint` でチェック結果が出力される事を確認。
+
+下記を説明するために用意した。
+
+* [Angular のプロジェクトに ESLint を設定して、 TypeScript っぽく書いているかチェックする](https://nakamurakko.com/entry/2022/01/20/081148)
+* [Angular の ESLint を見直した](https://nakamurakko.com/entry/2025/12/20/180338)
+
 
 ## 参考サイト
 
