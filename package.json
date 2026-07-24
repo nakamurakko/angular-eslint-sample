@@ -35,13 +35,13 @@
   },
   "devDependencies": {
     "@angular/build": "^22.0.1",
-    "@angular/cli": "^22.0.1",
+    "@angular/cli": "^22.0.7",
     "@angular/compiler-cli": "^22.0.1",
-    "angular-eslint": "22.0.0",
-    "eslint": "^9.39.4",
-    "jsdom": "^27.1.0",
+    "angular-eslint": "^22.1.0",
+    "eslint": "^10.7.0",
+    "jsdom": "^29.1.1",
     "typescript": "~6.0.3",
-    "typescript-eslint": "^8.61.1",
-    "vitest": "^4.1.9"
+    "typescript-eslint": "^8.65.0",
+    "vitest": "^4.1.10"
   }
 }
